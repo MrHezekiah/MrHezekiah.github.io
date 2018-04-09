@@ -3,3 +3,13 @@
 body{
   font-family: 'Poiret One', cursive;
 }
+.container-about {
+  background: url("images/aboutbg.jpg");
+  height:70vh;
+}
+.welcome{
+  margin: 120px 0 0 500px;
+}
+.projects{
+  color: #fff;
+}
