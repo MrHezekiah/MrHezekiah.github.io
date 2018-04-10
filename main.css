@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Poiret+One');
+
+body{
+  font-family: 'Poiret One', cursive;
+}
+header {
+  background: url("images/aboutbg.jpg");
+  height:70vh;
+}
+.welcome{
+  margin: 120px 0 0 500px;
+}
+.projects{
+  color: #fff;
+}
