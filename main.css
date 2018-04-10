@@ -3,7 +3,7 @@
 body{
   font-family: 'Poiret One', cursive;
 }
-.container-about {
+header {
   background: url("images/aboutbg.jpg");
   height:70vh;
 }
